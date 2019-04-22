@@ -25,4 +25,3 @@ public TestFlag flag;
 
 ![capture](https://user-images.githubusercontent.com/35278058/53179854-27d57300-35ba-11e9-90fb-ee3087390f45.PNG)
 
-Information about how to check if an Enum contains a flag please reference [EnumFlags&lt;T&gt;](../wiki/EnumFlags).
